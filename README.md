@@ -96,8 +96,14 @@
   <a href="https://zapier.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40"/></a>
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saqib-patel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=saqib-patel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saqib-patel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/saqibpatel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saqibpatel" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/saqibpatel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="saqibpatel" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-patel&" alt="saqib-patel" /></p>
